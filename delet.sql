@@ -1,0 +1,2 @@
+DELETE FROM hobby
+WHERE id='3';
